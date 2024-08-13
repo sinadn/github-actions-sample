@@ -62,6 +62,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>github-actions</finalName>
 	</build>
 
 </project>
